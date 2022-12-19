@@ -5,6 +5,7 @@ public class Main {
 	public void master() {
 		System.out.println("master!!!");
 		System.out.println("origin/master 에서 작성함!!!");
+		System.out.println("오리진master!!!");
 	}
 
 	public static void main(String[] args) {
