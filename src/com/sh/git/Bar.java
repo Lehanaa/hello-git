@@ -9,7 +9,7 @@ package com.sh.git;
  * 	- mixed : 지정 커밋 이후 변경사항을 unstaging area 보관. 재추가 후 커밋 가능
  * 	- soft : 지정 커밋 이후 변경사항을 staging area 보관. 즉시 커밋 가능
  * 
- *
+ * - merge : 가지친 것을 합친다. 가지친 것을 master에 합친다.
  */
 public class Bar {
 
