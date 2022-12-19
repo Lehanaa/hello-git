@@ -13,6 +13,7 @@ public class Main {
 	}
 	public void feature() {
 		System.out.println("master!");
+		System.out.println("feeeture");
 	}
 
 }
